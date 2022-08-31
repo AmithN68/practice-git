@@ -1,5 +1,5 @@
 <<<<<<< Updated upstream
 hello good morning
 =======
-my first git file to clone website
+my first git file to clone website for pushing and pulling
 >>>>>>> Stashed changes
